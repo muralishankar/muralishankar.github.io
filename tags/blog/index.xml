@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Shankar Sundaram</title>
+    <link>https://shankarsundaram.com/tags/blog/</link>
+    <description>Recent content in blog on Shankar Sundaram</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 15:02:08 +0400</lastBuildDate>
+    <atom:link href="https://shankarsundaram.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://shankarsundaram.com/posts/first-post/</link>
+      <pubDate>Mon, 01 Jan 2024 15:02:08 +0400</pubDate>
+      <guid>https://shankarsundaram.com/posts/first-post/</guid>
+      <description>Hello World, and Welcome to My Website! Today marks a significant milestone in my journey as a tech enthusiast and professional. I am thrilled to announce the launch of my own website, a dedicated space where I will be chronicling my adventures in the vast and ever-evolving world of technology.
+As someone who has navigated through various technical landscapes, I&amp;rsquo;ve encountered my fair share of challenges. Each obstacle was a learning opportunity, a puzzle that needed solving.</description>
+    </item>
+  </channel>
+</rss>
